@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+     <key>items</key>
+     <array>
+         <dict>
+             <key>assets</key>
+             <array>
+                 <dict>
+                     <key>kind</key>
+                     <string>software-package</string>
+                     <key>url</key>
+                     <string>https://git.oschina.net/shujikeji/base/attach_files/download?i=82354&u=http%3A%2F%2Ffiles.git.oschina.net%2Fgroup1%2FM00%2F01%2F4A%2FPaAvDFkme8WAZC6PAKfQirivvfg872.ipa%3Ftoken%3Df23826ff9042c092416342e3ae926d81%26ts%3D1495694264%26attname%3DJLPsiApp.ipa</string>
+                 </dict>
+             </array>
+             <key>metadata</key>
+             <dict>
+                 <key>bundle-identifier</key>
+                 <string>com.infohold.PlamSocialSecurity</string>
+                 <key>bundle-version</key>
+                 <string>1.2.8</string>
+                 <key>kind</key>
+                 <string>software</string>
+                 <key>subtitle</key>
+                 <string>吉林掌上社保</string>
+                 <key>title</key>
+                 <string>吉林掌上社保</string>
+             </dict>
+         </dict>
+     </array>
+  </dict>
+</plist>
